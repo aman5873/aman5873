@@ -77,16 +77,21 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Amazon_AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
+<br/>
 
+## Certification
+
+[![Google Analytics Certification](https://img.shields.io/badge/Google%20Analytics-E37400.svg?style=for-the-badge&logo=Google-Analytics&logoColor=white)](https://skillshop.credential.net/cd92456a-45ea-4efc-a5a7-66f40408b6b0)
+
+<br/>
+
+<hr/>
 <br/>
 
 <p align="left">
   <a href="https://github.com/aman5873?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
-<br/>
-<hr/>
-<br/>
 
 <p align="center">
   <a href="https://github.com/aman5873">
