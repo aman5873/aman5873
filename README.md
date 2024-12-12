@@ -43,16 +43,13 @@
 
 # About me
 
-
-
-
 <p>
 <!--   <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" /> -->
 ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/>
 ❤️&emsp; Love to writing code and learning new features<br/>
 📧&emsp; Reach me anytime: chauhanaman4003.dev@gmail.com<br/>
 🌐&emsp; Scan the QR code below to connect:<br/>
-<img src="https://res.cloudinary.com/dirjxexal/image/upload/v1733987860/WhatsApp_Image_2024-12-12_at_12.41.03_numaym.jpg" alt="aman5873" style="width:180px" />
+<img src="https://res.cloudinary.com/dirjxexal/image/upload/v1733987860/WhatsApp_Image_2024-12-12_at_12.41.03_numaym.jpg" alt="aman5873" style="width:180px; margin-top:10px; margin-left:30px" />
 </p>
 
 <br/>
