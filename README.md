@@ -43,17 +43,14 @@
 
 # About Me
 
- <img align="right" width="200" src="https://res.cloudinary.com/dirjxexal/image/upload/v1733987860/WhatsApp_Image_2024-12-12_at_12.41.03_numaym.jpg" alt="portfolio" style="width:180px" /> 
-
 ✌️ &emsp; I enjoy programming and sharing knowledge.  
 ❤️ &emsp; I love writing code and continuously learning new features.  
 📧 &emsp; Feel free to reach out: [chauhanaman4003.dev@gmail.com](mailto:chauhanaman4003.dev@gmail.com)  
-🌐 &emsp; Scan the QR code to connect:  
+🌐 &emsp; Scan the QR code below to connect <br/> <br/>
+ <img  src="https://res.cloudinary.com/dirjxexal/image/upload/v1733987860/WhatsApp_Image_2024-12-12_at_12.41.03_numaym.jpg" alt="portfolio" style="width:150px"/> 
+ <br/>
 
 
-
-
-<br/>
 
 ## Use To Code
 
